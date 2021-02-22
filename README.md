@@ -25,7 +25,7 @@ pip install matplotlib numpy pandas Pillow pyqt5 scipy
 
 **Execução:**
 
-Dentro da pasta do *src* do repositório, abra o seu terminal e digite:
+Dentro da pasta *src* do repositório, abra o seu terminal e digite:
 
 ```sh
 python Main.py
