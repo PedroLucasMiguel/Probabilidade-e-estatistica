@@ -8,6 +8,11 @@
 # **Infos de compilação**
 - Versão do python: 3.9.1
 
+# **Versão pré-compilada para Windows 64 bits:**
+
+Você pode encontrar uma versão ja compilada do código em versão executável neste link:
+https://github.com/PedroLucasMiguel/Probabilidade-e-estatistica/releases/tag/1.0
+
 # **Compile você mesmo:**
 
 **Lembrando que é necessário utilizar o Python em sua versão 3.9.1 ou superior para garantir o funcionamento do software**
